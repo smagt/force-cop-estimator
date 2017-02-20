@@ -1,6 +1,6 @@
 # force-cop-estimator
 
-This module estimates the center of contct in finger's frame of reference and the aplied force in Newtons from the response of the tactile sensors of the iCub robot. This modul is used in Task 4-1 to detect contacts. 
+This module estimates the center of contact in finger's frame of reference and the aplied force in Newtons from the response of the tactile sensors of the iCub robot. This module is used in Task 4-1 to detect contacts. 
 
 
 ## Dependencies
